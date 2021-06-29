@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\bin\Debug\QLQuanCafe.exe.config
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\bin\Debug\QLQuanCafe.exe
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\bin\Debug\QLQuanCafe.pdb
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\obj\Debug\QLQuanCafe.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\obj\Debug\QLQuanCafe.fLogin.resources
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\obj\Debug\QLQuanCafe.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\obj\Debug\QLQuanCafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\obj\Debug\QLQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\obj\Debug\QLQuanCafe.exe
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\obj\Debug\QLQuanCafe.pdb
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\obj\Debug\QLQuanCafe.fTableManager.resources
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\obj\Debug\QLQuanCafe.fAccountProfile.resources
+C:\Users\ADMIN\Desktop\QLQuanCafe\Code\QLQuanCafe\QLQuanCafe\obj\Debug\QLQuanCafe.fAdmin.resources
