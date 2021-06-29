@@ -1,4 +1,5 @@
-fsdfsd
+abc
+
 use QLQuanCafe
 go
 create table TableFood (
